@@ -1,0 +1,18 @@
+# Raw dataset must never be committed to this repository (per assignment requirements).
+# Download it from the Google Drive link in README.md instead.
+data/
+*.zip
+
+# Saved model binaries live in Google Drive, not GitHub.
+models/
+*.joblib
+*.keras
+*.h5
+
+# Standard Python / Jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
