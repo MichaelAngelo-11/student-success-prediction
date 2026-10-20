@@ -75,6 +75,6 @@ recorded with real validation-set metrics in `reports/experiment_results.csv`.
 
 ## Links
 
-- GitHub repository: *add link here*
-- Google Drive folder (raw dataset ZIP + saved models): *add link here*
-- Presentation video: *add link here*
+- GitHub repository: *[link](https://github.com/MichaelAngelo-11/student-success-prediction.git)*
+- Google Drive folder : *[link](https://drive.google.com/drive/folders/1ojkiGGAU7tgQeX_CGRHMsx8FlqvSKIkI?usp=sharing)*
+- Presentation video: *[link](https://drive.google.com/drive/folders/1TcCDP8o3NUV86_50BHTZ_5IPUCJ5wPbN?usp=sharing)*
